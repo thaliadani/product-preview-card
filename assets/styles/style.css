@@ -89,6 +89,7 @@ body {
 .price-old {
     color: var(--color-dark-grayish-blue);
     font-family: var(--font-montserrat);
+    font-size: 14px;
     text-decoration: line-through;
 }
 
