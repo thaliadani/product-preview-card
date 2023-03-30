@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Desktop
 
-![image](https://user-images.githubusercontent.com/31187727/228957623-4022d158-96cf-4173-9aa1-3cb8220c1ab7.png)
+![image](https://user-images.githubusercontent.com/31187727/228960272-026837db-e975-489e-a34d-3a8dbef07f0f.png)
 
 </div>
 
