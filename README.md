@@ -36,11 +36,11 @@ Users should be able to:
 
 ### Mobile
 
-![image](https://user-images.githubusercontent.com/31187727/228957500-f79e29c4-00fd-45ae-aaf3-c5b556b2cfa7.png)
+![image](https://user-images.githubusercontent.com/31187727/228960713-d27c9f08-0e61-46fe-bde0-9ffa259f109d.png)
 
 ### Desktop
 
-![image](https://user-images.githubusercontent.com/31187727/228957623-4022d158-96cf-4173-9aa1-3cb8220c1ab7.png)
+![image](https://user-images.githubusercontent.com/31187727/228960272-026837db-e975-489e-a34d-3a8dbef07f0f.png)
 
 </div>
 
